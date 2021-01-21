@@ -1,0 +1,9 @@
+{
+  "name": "nodeTry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-tools": "^9.2.1"
+  }
+}
